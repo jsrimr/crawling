@@ -5,3 +5,6 @@
 pip install google-images_download
 python crawl.py
 ```
+
+multiprocessing REF
+https://hamait.tistory.com/755
